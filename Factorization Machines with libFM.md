@@ -5,7 +5,7 @@ flexibility of feature engineering with power of matrix factorization.
 I found that this approach is very popular in kaggle community specially in challenges like ctr-prediction 
 that's why I decided to study it better.
 
-Also this paper repeats in a lot Steffen's original paper where he defines Factorization Machines so I will refer original paper as well. 
+Also this paper repeats in a lot Steffen's original paper where he defines Factorization Machines for the first time so I will refer original paper as well. 
 
 Motivation
 ==========
