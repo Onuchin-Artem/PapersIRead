@@ -10,8 +10,8 @@ Also this paper repeats in a lot Steffen's original paper where he defines Facto
 Motivation
 ==========
 
-Let's take a look at typical process of improving machine learning system.
-Usually, there is a general supervised learning algorithm, for example SVM depolyed to production. And a lot of efforts are usually put into feature engineering - process of converting raw data into real values matrix. According anoter great paper  feature engineering is the key in machine learning.
+Let's take a look at a typical process of improving machine learning systems.
+Usually, there is a general supervised learning algorithm, for example SVM, depolyed to production. And a lot of efforts are usually put into feature engineering - process of converting raw data into real values matrix. According another great paper  feature engineering is the key in machine learning.
 And if you think you can find that feature engineering is really powerfull technique: you don't have to change model to imrove it - it means you don't have to rewrite the whole system; you always can incomporate new data source into existing model through feature engineering.
 
 On the other hand in recomendation systems domain, very specialized unsupervised models like matrix factorization are widely used. These models are really great in analyzing hidden interactions between categorical features - e.g. users and movies in movies recomendation system. 
@@ -27,7 +27,7 @@ Paper structure
 
 This paper consists of intruduction, conclusion and four parts:
 
-- Factoriation machine model. In this part author defines what factozation machine is
+- Factoriation machine model. In this part author mathematically defines what factozation machine is.
 - Learning factorization machines.
 - Related work and application of factorization machines.
 - Evaluation.
