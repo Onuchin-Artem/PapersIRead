@@ -1,4 +1,4 @@
-In this article I'm going to summarise paper "(Factorization Machines with libFM)[http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf]" of Steffen Rendle, 2012.
+In this article I'm going to summarise paper ["Factorization Machines with libFM"](http://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf) of Steffen Rendle, 2012.
 In this paper Steffen overviews state of art in Factorization Machines research at that moment.
 Factorization macines is an approach in supervised machine learning that combines 
 flexibility of feature engineering with power of matrix factorization.
