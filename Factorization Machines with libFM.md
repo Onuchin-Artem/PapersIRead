@@ -28,9 +28,9 @@ Paper structure
 This paper consists of intruduction, conclusion and four parts:
 
 - Factoriation machine model. In this part author mathematically defines what factozation machine is.
-- Learning factorization machines.
-- Related work and application of factorization machines.
-- Evaluation.
+- Learning factorization machines. In this part author compare 3 ways to estimate parameters of factorization machines: through stochastic gradient descent, through alternating least squares and bayesian estimation through markov chain monte carlo.
+- Related work and application of factorization machines. In this part author show how we can mimic different matrix factorization techniqeues by just doing relatively simple feature engineering for factorization machine model. I highly recomend to read this part to every one whi is interested in practically apllying factorization machines. It will give you a lot of ideas for feature engineering. Also I`m going to touch this part in more details later.
+- Evaluation. In this part author comare acurrency of this model with accurency on different datasets. This comparison shows that factorization machines beat all the comitetors. I`m not going to focus on this part in this review.
 
 What is factorization machines?
 ===============================
